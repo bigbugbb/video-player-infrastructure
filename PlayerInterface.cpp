@@ -1,5 +1,5 @@
 //
-//  QvodPlayerInterface.cpp
+//  PlayerInterface.cpp
 //  QVOD
 //
 //  Created by bigbug on 11-11-21.
@@ -8,7 +8,7 @@
 
 #include <iostream>
 #include "Core/QvodPlayer.h"
-#include "QvodPlayerInterface.h"
+#include "PlayerInterface.h"
 
 
 #ifdef LOG_AUDIO_PCM

@@ -1,13 +1,13 @@
 //
-//  QvodPlayerInterface.h
+//  PlayerInterface.h
 //  QVOD
 //
 //  Created by bigbug on 11-11-21.
 //  Copyright (c) 2011年 qvod. All rights reserved.
 //
 
-#ifndef QVOD_QvodPlayerInterface_h
-#define QVOD_QvodPlayerInterface_h
+#ifndef PlayerInterface_h
+#define PlayerInterface_h
 
 #ifdef __cplusplus
 extern "C" {
